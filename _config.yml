@@ -1,0 +1,28 @@
+name: Charles Kriel
+favicon: null
+layout_spectrum: 0.578966915840283
+typography_spectrum: 0.6637810326647013
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.27784623904153705
+  lightness: 0.009795458288863301
+  saturation: 0.8035679466556758
+  rhythmicContrast: 0.42444253945723176
+purpose: []
